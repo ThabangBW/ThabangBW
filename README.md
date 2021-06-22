@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThabangBW
-- 👀 I’m interested in data 9science and analytics
+- 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on UNSDGs data analytics
 - 📫 How to reach me thabangofficial@gmail.com
